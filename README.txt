@@ -1,0 +1,1 @@
+In order to learn SDL2 I made a rough clone of Pong. It's not great but it's something.
